@@ -221,7 +221,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1182854488}
   m_Layer: 0
-  m_Name: Fier
+  m_Name: Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5092,7 +5092,7 @@ GameObject:
   - component: {fileID: 1671976129}
   - component: {fileID: 1671976128}
   m_Layer: 0
-  m_Name: Fier
+  m_Name: Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
