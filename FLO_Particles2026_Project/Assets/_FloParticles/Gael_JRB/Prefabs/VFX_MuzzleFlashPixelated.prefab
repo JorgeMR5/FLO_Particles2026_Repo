@@ -14634,7 +14634,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6715532719987713120}
   m_Layer: 0
-  m_Name: MuzzleFlashPixelated
+  m_Name: VFX_MuzzleFlashPixelated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
