@@ -1500,13 +1500,13 @@
     "m_RefNameGeneratedByDisplayName": "BaseColor",
     "m_DefaultReferenceName": "_BaseColor",
     "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
+    "m_GeneratePropertyBlock": false,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
     "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
+    "overrideHLSLDeclaration": true,
+    "hlslDeclarationOverride": 2,
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
@@ -2591,8 +2591,8 @@
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
     "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
+    "overrideHLSLDeclaration": true,
+    "hlslDeclarationOverride": 2,
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
@@ -4526,10 +4526,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1578.4000244140625,
-            "y": 605.5999145507813,
-            "width": 132.7999267578125,
-            "height": 33.60015869140625
+            "x": -1566.39990234375,
+            "y": 567.199951171875,
+            "width": 132.0,
+            "height": 33.60003662109375
         }
     },
     "m_Slots": [
