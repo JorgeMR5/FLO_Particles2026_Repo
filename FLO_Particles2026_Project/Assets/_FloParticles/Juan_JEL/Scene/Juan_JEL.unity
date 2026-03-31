@@ -483,6 +483,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 867629957152917757, guid: a10faf2d602d8b7479face69f31c1b0b, type: 3}
+      propertyPath: prewarm
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1167747137694050668, guid: a10faf2d602d8b7479face69f31c1b0b, type: 3}
       propertyPath: m_Name
       value: Fire_FX
@@ -494,6 +498,10 @@ PrefabInstance:
     - target: {fileID: 3528645940918507192, guid: a10faf2d602d8b7479face69f31c1b0b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.178
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967263710934792252, guid: a10faf2d602d8b7479face69f31c1b0b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 5715531724433464869, guid: a10faf2d602d8b7479face69f31c1b0b, type: 3}
       propertyPath: m_LocalScale.x
@@ -759,7 +767,7 @@ Transform:
   m_GameObject: {fileID: 1267389754}
   serializedVersion: 2
   m_LocalRotation: {x: 0.10692548, y: -0, z: -0, w: 0.9942671}
-  m_LocalPosition: {x: 0.98, y: 2.77, z: -2.87}
+  m_LocalPosition: {x: 0.98, y: 4.87, z: -7.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1109,7 +1117,7 @@ Transform:
   m_GameObject: {fileID: 2064581028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.017, y: 0.034, z: 0.437}
+  m_LocalPosition: {x: -0.01, y: 0.034, z: 0.437}
   m_LocalScale: {x: 1.6894, y: 1.6894, z: 1.6894}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5932,7 +5940,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1154987687173870810, guid: 6f8544918d5b17c4ea64d5364f2ca47f, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3196592019925108870, guid: 6f8544918d5b17c4ea64d5364f2ca47f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5993,15 +6001,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4393815176183208751, guid: 25634f9fd8bd0be4d9320af932a8e0fe, type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4499782660412594306, guid: 25634f9fd8bd0be4d9320af932a8e0fe, type: 3}
+      propertyPath: InitialModule.size3D
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7911207601041177042, guid: 25634f9fd8bd0be4d9320af932a8e0fe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.43
       objectReference: {fileID: 0}
     - target: {fileID: 7911207601041177042, guid: 25634f9fd8bd0be4d9320af932a8e0fe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 3.44
       objectReference: {fileID: 0}
     - target: {fileID: 7911207601041177042, guid: 25634f9fd8bd0be4d9320af932a8e0fe, type: 3}
       propertyPath: m_LocalPosition.z
